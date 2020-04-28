@@ -1,6 +1,6 @@
 
           var DATA = {
-        name: "Hi, I'm Swarnabha",
+        name: "Hi, I'm Swarnabha.",
         subtext: "Computer Science undergraduate (junior year) based in Kolkata, India",
         jobStatus: "Looking for an internship (preferably, research-oriented) in Deep Learning (specifically, Computer Vision).",
         githubURL: 'https://github.com/swarn4399',
@@ -93,7 +93,7 @@
                     <div className="exp-item">
                       <div className="job">
                         <a className="company" href="https://www.iitr.ac.in/" target="_blank">Indian Institute of Technology, Roorkee </a>
-                        <div className="duration">December 2019 &mdash; present</div>
+                        <div className="duration">June 2019 &mdash; present</div>
                       </div>
                       <div className="title">Undergraduate Research Intern</div>                                                        <ul className="description">
                         <li>Worked under the guidance of <a href="https://www.iitr.ac.in/departments/CSE/pages/People+Faculty+Partha_Pratim_Roy.html">Dr Partha Pratim Roy</a>  in the domain of Sign Language Recognition.</li>            <li>Critiqued  some of the most cited research papers in the domain, and performed an initial literature review to get acquainted with the techniques involved. This was followed by a summary of various methods used so far, along with challenges faced by each method and possible scopes of improvement.</li>
