@@ -92,36 +92,25 @@
                   <div className="content">
                     <div className="exp-item">
                       <div className="job">
-                        <a className="company" href="http://www.jaduniv.edu.in/" target="_blank">Jadavpur University </a>
-                        <div className="duration">May 2019 &mdash; Dec 2019</div>
+                        <a className="company" href="https://www.iitr.ac.in/" target="_blank">Indian Institute of Technology, Roorkee </a>
+                        <div className="duration">December 2019 &mdash; present</div>
                       </div>
-                      <div className="title">Undergraduate Researcher</div>                                                        <ul className="description">
-                        <li>Worked under the guidance of <a href="https://scholar.google.co.in/citations?user=KuRwZmgAAAAJ&hl=en">Dr Mita Nasipuri</a>  in the domain of Semantic Image Inpainting.</li>            <li>Critiqued  some of the most cited research papers in the domain, and performed an initial literature review to get acquainted with the techniques involved. This was followed by a summary of various methods used so far, along with challenges faced by each method and possible scopes of improvement.</li>
-                        <li>Implemented the latest paper in the field, independently using the PyTorch framework, achieving the same results as claimed by the experiment in the paper, thereby completing a successful verification. The paper in question is Probabilistic Semantic Inpainting with Pixel Constrained CNNs (Dupont and Suresha).</li> </ul>
-                    </div>
-                    <div className="exp-item">
-                      <div className="job">
-                        <a className="company" href="https://www.udacity.com/" target="_blank">Udacity </a>
-                        <div className="duration">May 2019 &mdash; Present</div>
-                      </div>
-                      <div className="title">Independent Consulting</div>
-                      <ul className="description">
-                        <li>Utilize my specialized knowledge in the field of Computer Vision and strong communication skills to provide Technical 1:1 Mentorship, as a consultant to educational platform Udacity.</li>
-                        <li>I help students assigned to me as mentees, understand concepts of Computer Vision by clearing their doubts online via the Udacity platform. This includes help via live chat and weekly virtual Zoom meetings.</li>
-                        <li>One of only 12 mentors worldwide for this advanced course in Computer Vision. </li>
-                        <li>I also review project submissions from students across the world for all course projects. </li>
+                      <div className="title">Undergraduate Research Intern</div>                                                        <ul className="description">
+                        <li>Worked under the guidance of <a href="https://www.iitr.ac.in/departments/CSE/pages/People+Faculty+Partha_Pratim_Roy.html">Dr Partha Pratim Roy</a>  in the domain of Sign Language Recognition.</li>            <li>Critiqued  some of the most cited research papers in the domain, and performed an initial literature review to get acquainted with the techniques involved. This was followed by a summary of various methods used so far, along with challenges faced by each method and possible scopes of improvement.</li>
+                        <li>Implemented the latest paper in the field, achieving the same results as claimed by the experiment in the paper, thereby completing a successful verification. The paper in question is “A position and rotation invariant framework for sign language recognition (SLR) using Kinect".</li> 
+                        <li>The framework is capable of recognizing occluded sign gestures using Hidden Markov Model(HMM) and has been tested on a dataset of 2700 gestures.</li>
                       </ul>
                     </div>
                     <div className="exp-item">
                       <div className="job">
-                        <a className="company" href="https://www.cesc.co.in/" target="_blank">Calcutta Electric Supply Corporation (CESC) </a>
-                        <div className="duration">Dec 2018 &mdash; Dec 2018</div>
+                        <a className="company" href="https://www.helpageindia.org/" target="_blank">HelpAge India </a>
+                        <div className="duration">Dec 2018 &mdash; Jan 2019</div>
                       </div>
-                      <div className="title">IT Intern</div>
+                      <div className="title">Intern</div>
                       <ul className="description">
-                        <li>Worked with the IT support team to create reliable software documentation.</li>
-                        <li>During 2 weeks of training, understanding the basic SQL table structure used for 5 different modules in the employee well-fare platform.</li>
-                        <li>Documented the work-flow in each of the 5 processes and also created presentations to be used by the manager in order to explain the features to new employees of the company.</li>
+                        <li>Worked with the caregivers and support team to analyse the situation of the elderly population in Kolkata.</li>
+                        <li>During the 3 weeks of internship, I went on site visits with the Mobile Healthcare Unit for better understanding of the problems faced by the elderly people especially in the suburbs.</li>
+                        <li>Documented the work-flow and prepared a presentation of my analysis along with detailed case studies.</li>
                       </ul>
                     </div>
                   </div>
@@ -238,12 +227,6 @@
                     <div className="skill-category">
                       <strong>Relevant coursework: </strong>
                       <span>Data Structures and Algorithms, Design and Analysis of Algorithms, Discrete Mathematics, Theory of Computation, Digital Logic, Computer Architecture and Organization</span>
-                    </div>
-                    <div className="skill-category">
-                      <strong>Scholarships: &nbsp;</strong>
-                      <li>Facebook AI scholarship - Secure and Private AI (May 2019)</li>
-                      <li>Elite Medal - NPTEL Robotics (National level Exam, Oct 2018)</li>
-                      <li>GAABESU award - Merit award from university alumni (Nov 2019)</li>
                     </div>
                   </div>
                 </div>
