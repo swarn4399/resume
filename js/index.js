@@ -67,8 +67,8 @@
                         <div className="university"><a href="https://iem.edu.in/" target="_blank">IEM, Kolkata</a></div>
                         <div className="college"><a href="https://iemcse.wordpress.com/" target="_blank">Department of Computer Science & Engineering</a></div>
                         <div className="major"><strong>Major:</strong> Computer Science</div>
-                        <div className="minor"><strong>CGPA:</strong> 8.77/10(till 6th semester) </div>
-                        <div className="coursework"><strong>Relevant coursework:</strong> Data Structures and Algorithms, Computer Architecture and Organization, Computer Graphics, Database Management Systems, Operating Systems, Artificial Intelligence</div>
+                        <div className="minor"><strong>CGPA:</strong> 8.85/10(till 6th semester) </div>
+                        <div className="coursework"><strong>Relevant coursework:</strong> Data Structures, Design & Analysis of Algorithms, Computer Architecture and Organization, Computer Graphics, Database Management Systems, Operating Systems, Artificial Intelligence, Software Engineering</div>
                         <div className="grad-date">Expected Graduation: June 2021</div>
                     </div>
                     <div className="edu-item">
@@ -96,9 +96,11 @@
                         <div className="duration">June 2019 &mdash; present</div>
                       </div>
                       <div className="title">Undergraduate Research Intern</div>                                                        <ul className="description">
-                        <li>Worked under the guidance of <a href="https://www.iitr.ac.in/departments/CSE/pages/People+Faculty+Partha_Pratim_Roy.html">Dr Partha Pratim Roy</a>  in the domain of Sign Language Recognition.</li>            <li>Critiqued  some of the most cited research papers in the domain, and performed an initial literature review to get acquainted with the techniques involved. This was followed by a summary of various methods used so far, along with challenges faced by each method and possible scopes of improvement.</li>
+                        <li>Worked under the guidance of <a href="https://www.iitr.ac.in/departments/CSE/pages/People+Faculty+Partha_Pratim_Roy.html">Dr Partha Pratim Roy</a>  in the domain of Sign Language Recognition.</li>            
+                        <li>Critiqued  some of the most cited research papers in the domain, and performed an initial literature review to get acquainted with the techniques involved. This was followed by a summary of various methods used so far, along with challenges faced by each method and possible scopes of improvement.</li>
                         <li>Implemented the latest paper in the field, achieving the same results as claimed by the experiment in the paper, thereby completing a successful verification. The paper in question is “A position and rotation invariant framework for sign language recognition (SLR) using Kinect".</li> 
                         <li>The framework is capable of recognizing occluded sign gestures using Hidden Markov Model(HMM) and has been tested on a dataset of 2700 gestures.</li>
+                        <li>At present, we are trying to take vision-based approaches in combination with depth sensors, exploring more robust features and classifiers like RNNs, multi-layered CNN-LSTMs, and Autoencoders to improve the performance further.</li>
                       </ul>
                     </div>
                     <div className="exp-item">
@@ -120,11 +122,11 @@
                   <div className="content">
 
                      <div className="project-item">
-                      <a className="project-title" href="" target="_blank">Build an OpenStreetMap Route Planner</a>
+                      <a className="project-title" href="" target="_blank">Dynamic Signature Verification from video data</a>
 
-                      <div className="duration">July 2019</div>
+                      <div className="duration">November 2020 - present</div>
                       <ul className="project-desc">
-                        <li>Implemented A-Star Search in C++ using concepts of Object-Oriented Programming(OOPs) to find the shortest path from one point to another in a map generated from OpenStreetMap data.</li>
+                        <li>Implementing a system to authenticate signatures dynamically by analyzing the temporal variations in the video using Computer Vision and Pattern Recognition techniques.</li>
                         <li>Passed automated testing under the Google Testing framework. The tests were provided by Udacity to ensure correct implementation of code. Also, passed a code review from an experienced reviewer at Udacity, with comments about the impressive way in which the entire project was coded.</li>
                       </ul>
                      </div>
@@ -222,7 +224,7 @@
                     </div>
                     <div className="skill-category">
                       <strong>Area(s) of expertise: &nbsp;</strong>
-                      <span>Deep Learning, Computer Vision, Image Processing</span>
+                      <span>Deep Learning, Computer Vision, Image Processing, Natural Language Understanding</span>
                     </div>
                     <div className="skill-category">
                       <strong>Relevant coursework: </strong>
